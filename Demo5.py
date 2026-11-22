@@ -6,3 +6,9 @@ elif a == b:
   print("a and b are equal")
 else:
   print("a is greater than b")
+
+number = 7
+if number % 2 == 0:
+  print("the number is even")
+else:
+  print("the number is odd")
